@@ -36,8 +36,8 @@ I'm Barış Bükümcüler. I'm a .Net Developer and I like to write clean and ma
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisbukumculer&hide=TeX&layout=compact)
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="220"> 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barisbukumculer&hide=TeX&layout=compact )
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="226"> 
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=barisbukumculer.barisbukumculer)
